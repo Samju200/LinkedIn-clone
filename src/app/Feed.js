@@ -70,6 +70,7 @@ function Feed() {
               description={description}
               message={message}
               photoUrl={photoUrl}
+              id={id}
             />
           );
         })}
